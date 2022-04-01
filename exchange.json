@@ -1,0 +1,11 @@
+{
+  "main" : "oas-audit-scenario-2.yaml",
+  "name" : "oas-audit-scenario-2",
+  "classifier" : "oas",
+  "tags" : [ ],
+  "groupId" : "06568b1f-32f7-4883-a6ae-30752a3e82cc",
+  "assetId" : "oas-audit-scenario-2",
+  "version" : "1.0.0",
+  "apiVersion" : "1.0.0",
+  "dependencies" : [ ]
+}
